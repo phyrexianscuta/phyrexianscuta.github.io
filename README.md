@@ -1,1 +1,7 @@
 # phyrexianscuta.github.io
+
+Algunos proyectos míos en Javascript:
+
+<a href="https://phyrexianscuta.github.io/Qoridor/index.html">Qoridor</a>
+
+<a href="https://phyrexianscuta.github.io/Reversi/index.html">Reversi</a>
