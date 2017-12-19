@@ -6,4 +6,5 @@ Algunos proyectos míos en Javascript:
 
 <a href="https://phyrexianscuta.github.io/Reversi/index.html">Reversi</a>
 
-<a href="https://phyrexianscuta.github.io/Coloretto/Coloretto.html">Reversi</a> (work in progress)
+<a href="https://phyrexianscuta.github.io/Coloretto/Coloretto.html">Coloretto</a> (work in progress)
+
